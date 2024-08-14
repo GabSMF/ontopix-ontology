@@ -1,4 +1,4 @@
-# OntoPix: OntoPix: Aplicando SABiO para modelagem conceitual bem fundamentada das jabuticabas financeiras brasileiras
+# OntoPix: Aplicando SABiO para modelagem conceitual bem fundamentada das jabuticabas financeiras brasileiras
 
 OntoPix is a well-founded domain ontology, specified in OntoUML, that formally represents relevant spaces of current brazilian finance, more specifically its transfers and economic exchanges that use the Pix payment method. The purpose of the ontology is to clariy such domain-relevant concepts and relationships and produce a ontologically well-founded conceptual artifact.
 
