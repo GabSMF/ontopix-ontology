@@ -16,9 +16,8 @@ OntoPix is a well-founded domain ontology, specified in OntoUML, that formally r
 * **Fernanda Baião** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
 
 ## Future Work
+* We're in the late stage os modeling concepts definitions such as Chave Pix, Taxes and Tarifs
 * We're now in the early stages of modeling concepts such as Pix Withdrawal, Pix Exchange and Limits.
 * We will soon update with a machine-processable version of OntoPix in formats such as owl and RDF
 
-## Observations
-* The current version of OntoPix has an initial version of **LIMITS**, however it is **STILL UNDER DEVELOPMENT**.
   
