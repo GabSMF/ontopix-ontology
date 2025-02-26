@@ -1,5 +1,4 @@
-# OntoPix: Aplicando SABiO para modelagem conceitual bem fundamentada das jabuticabas financeiras brasileiras
-
+# OntoPix: Well-founded Conceptual Modeling of Brazilian Financial Domain
 OntoPix is a well-founded domain ontology, specified in OntoUML, that formally represents relevant spaces of current brazilian finance, more specifically its transfers and economic exchanges that use the Pix payment method. The purpose of the ontology is to clariy such domain-relevant concepts and relationships and produce a ontologically well-founded conceptual artifact.
 
 ## Built With
@@ -14,10 +13,3 @@ OntoPix is a well-founded domain ontology, specified in OntoUML, that formally r
 * **Lucas Maddalena** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
 * **Mateus Peixoto** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
 * **Fernanda Baião** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
-
-## Future Work
-* We're in the late stage of modeling concepts definitions such as Chave Pix, Taxes and Tarifs
-* We're now in the early stages of modeling concepts such as Pix Withdrawal, Pix Exchange and Limits.
-* We will soon update with a machine-processable version of OntoPix in formats such as owl and RDF
-
-  
