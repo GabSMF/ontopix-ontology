@@ -13,3 +13,8 @@ OntoPix is a well-founded domain ontology, specified in OntoUML, that formally r
 * **Lucas Maddalena** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
 * **Mateus Peixoto** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
 * **Fernanda Baião** - Pontifical University of Rio de Janeiro, Rio de Janeiro, Brazil
+
+## How to cite
+> If you use this Ontology or refer to this work in your publications, please cite:
+Ferreira, G., Peixoto, M., Maddalena, L., & Baião, F. (2024). OntoPix: Modelagem conceitual preliminar bem fundamentada no domínio financeiro brasileiro.
+
